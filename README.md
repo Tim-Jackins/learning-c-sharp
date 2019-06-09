@@ -1,2 +1,2 @@
 # learning-c-sharp
-Hmm is it like C? Ouch my finger!
+Hmm, is it like C? Ouch my finger!
