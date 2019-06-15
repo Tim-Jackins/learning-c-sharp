@@ -1,0 +1,11 @@
+C:\Users\timmi\Documents\learning-c-sharp\bin\Debug\netcoreapp2.1\learning-c-sharp.deps.json
+C:\Users\timmi\Documents\learning-c-sharp\bin\Debug\netcoreapp2.1\learning-c-sharp.runtimeconfig.json
+C:\Users\timmi\Documents\learning-c-sharp\bin\Debug\netcoreapp2.1\learning-c-sharp.runtimeconfig.dev.json
+C:\Users\timmi\Documents\learning-c-sharp\bin\Debug\netcoreapp2.1\learning-c-sharp.dll
+C:\Users\timmi\Documents\learning-c-sharp\bin\Debug\netcoreapp2.1\learning-c-sharp.pdb
+C:\Users\timmi\Documents\learning-c-sharp\obj\Debug\netcoreapp2.1\learning-c-sharp.csprojAssemblyReference.cache
+C:\Users\timmi\Documents\learning-c-sharp\obj\Debug\netcoreapp2.1\learning-c-sharp.csproj.CoreCompileInputs.cache
+C:\Users\timmi\Documents\learning-c-sharp\obj\Debug\netcoreapp2.1\learning-c-sharp.AssemblyInfoInputs.cache
+C:\Users\timmi\Documents\learning-c-sharp\obj\Debug\netcoreapp2.1\learning-c-sharp.AssemblyInfo.cs
+C:\Users\timmi\Documents\learning-c-sharp\obj\Debug\netcoreapp2.1\learning-c-sharp.dll
+C:\Users\timmi\Documents\learning-c-sharp\obj\Debug\netcoreapp2.1\learning-c-sharp.pdb
